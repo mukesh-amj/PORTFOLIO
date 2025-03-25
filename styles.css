@@ -108,7 +108,7 @@ header {
 @media (max-width: 960px) {
 
   .project-card .image img {
-    width: 210px;
+    width: 200px;
     height: 200px;
     border-radius: 20px;
   }
