@@ -102,13 +102,16 @@ header {
   .nav-menu.active {
     display: flex;
   }
+  
+}
+
+@media (max-width: 960px) {
 
   .project-card .image img {
     width: 240px;
     height: 220px;
     border-radius: 20px;
   }
-
   
 }
 
